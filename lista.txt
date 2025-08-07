@@ -2,4 +2,7 @@
 - Maça
 - Manga
 - teste testinho
+- Banana
+- Abacaxi
+- Abacate
 
